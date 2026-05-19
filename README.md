@@ -261,8 +261,8 @@ variable "tags" {
 ```hcl
 yourname       = "michael"
 location       = "eastus"
-admin_password = "YourPassword123!"
-dsrm_password  = "YourDSRMPassword123!"
+admin_password = " it's a secret!"
+dsrm_password  = "it's a secret!"
 domain_name    = "corp.michael.com"
 domain_netbios = "CORP"
 ```
